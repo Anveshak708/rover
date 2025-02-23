@@ -1,0 +1,2 @@
+localization_data_pub:my_package:ros_imu_bno055:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/rover-avvb/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rover-avvb/catkin_ws/install -G Unix Makefiles
